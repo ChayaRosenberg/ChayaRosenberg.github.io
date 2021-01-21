@@ -7,4 +7,7 @@ export default function Cart(props) {
       <div className="numProducts"> {props.cartProducts}</div>
     </div>
   );
+
+ 
 }
+console.log("helo");
