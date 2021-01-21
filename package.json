@@ -1,5 +1,5 @@
 {
-  "homepage": "http://ChayaRosenberg.github.io/ChayaRosenberg.github.io",
+  "homepage": "http://ChayaRosenberg.github.io/shop",
   "name": "shop",
   "version": "0.1.0",
   "private": true,
@@ -10,7 +10,7 @@
     "antd": "^4.4.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "^4.0.1"
   },
   "scripts": {
     "predeploy": "npm run build",
