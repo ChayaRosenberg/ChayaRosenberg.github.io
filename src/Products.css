@@ -1,16 +1,13 @@
-@import  "~antd/dist/antd.css";
+@import "~antd/dist/antd.css";
 
-.productsContainer{
+.productsContainer {
   border: 4px solid lightpink;
   width: 600px;
-  height: 570px;
-  margin:5px;
+  height: 480px;
+  margin: 5px;
   float: left;
-  
-
 }
-.slider{
-  width:300px;
-  margin:auto;
-
+.slider {
+  width: 300px;
+  margin: auto;
 }
